@@ -13,4 +13,3 @@ foreach($arr as $k => $v){
 }
 echo"<BR>";
 print_r(value: $arr);
-# 3
